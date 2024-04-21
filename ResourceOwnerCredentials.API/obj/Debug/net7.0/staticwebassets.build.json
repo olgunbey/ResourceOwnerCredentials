@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tf09JpPG/0i1HdfRvPpZRA9/zs9R/VnMjE149JUJVMA=",
+  "Source": "ResourceOwnerCredentials.API",
+  "BasePath": "_content/ResourceOwnerCredentials.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
